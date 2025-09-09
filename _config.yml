@@ -25,10 +25,10 @@ author:
   avatar           : "profile.png"
   name             : "Luis Rincon" #update
   pronouns         : "him" # example: "she/her"  
-  bio              : "Short biography for the left hand sidebar"
+  bio              : "Class of 2027"
   employer         : "St. Olaf College"
   uri              : # URL
-  email            : #"[username]@stolaf.edu" #update
+  email            : "rincon2@stolaf.edu" #update
 
   # links
   academia         : # URL

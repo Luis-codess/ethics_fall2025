@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "[Name] Computes Ethics" #update to your name
+title: "Luis's Computes Ethics" #update to your name
 author_profile: true
 redirect_from: 
   - /about/
@@ -12,16 +12,17 @@ This page is meant for you to showcase your case study, podcasts, and blog posts
 
 About Me
 ---
-My name is [First Last]. I’m a [Computer Science] student in the [Mathematics, Statistics, and Computer Science Department](https://wp.stolaf.edu/mscs/) at St. Olaf College. I'm earning my [B.S] in [majors]. You can also talk about internships you've had [if applicable]
+Hi, my name is Luis Rincon, and I’m currently a Computer Science student at St. Olaf College. Ever since I was young, I’ve been fascinated by technology and how it keeps shaping the way we live. That curiosity naturally grew into a passion for programming, problem-solving, and building projects that can make a real impact.
 
 Research 
 ---
-What topics are you currently interested in researching, or have already done in your major studies.
-What topics are you interested in learning about regarding ethics.
+I am currently interested in front-end development, software engineering, and machine learning with a focus on artificial intelligence. I enjoy exploring how intuitive user interfaces can improve the way people interact with technology, and I’m also drawn to the challenge of building efficient and scalable systems.
+
+In terms of ethics, I want to learn more about how AI impacts privacy, fairness, and human decision-making. I believe it’s important to study how technology can be created responsibly so that innovation benefits everyone without reinforcing harm or inequality.
 
 Personal Life
 ---
-Update to give a little background on you and your interests.
+Outside of my studies, I like gaming, music, and spending time with my friends and family. I’m passionate about working on creative tech projects, whether that’s designing a personal AI assistant or developing fun, interactive applications. Loyalty, curiosity, and growth are values I carry into both my personal and professional life.
 
 
 For more info on editing this page: configuring Academic Pages can be found in [the guide](https://academicpages.github.io/markdown/), the [growing wiki](https://github.com/academicpages/academicpages.github.io/wiki), and you can always [ask a question on GitHub](https://github.com/academicpages/academicpages.github.io/discussions). The [guides for the Minimal Mistakes theme](https://mmistakes.github.io/minimal-mistakes/docs/configuration/) (which this theme was forked from) might also be helpful.
