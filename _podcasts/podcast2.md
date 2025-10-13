@@ -3,7 +3,7 @@ title: "Podcast 2"
 collection: podcasts
 permalink: /podcasts/podcast2
 excerpt: "What happens when you ask the same question to different AI models"
-date: 2025-09-26
+date: 2025-10-12
 audio: ethics_fall2025/files/podcast_2.mp3
 video: ethics_fall2025/files/podcast2.mp4
 ---
