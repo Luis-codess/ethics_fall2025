@@ -1,7 +1,6 @@
 ---
 permalink: /casestudy/
 title: "Case Study"
-author: "Luis Rincon
 author_profile: true
 ---
 
