@@ -12,7 +12,7 @@ author_profile: true
 ## Table of Contents
 ---
 1. [Introduction](introduction./)  
-2. [Ethical Issues and Research Background](research-background/)  
+2. [Background](background/)  
 3. [Stakeholder 1](stakeholder1/)
 4. [Stakeholder 2](stakeholder2/)
 5. [Discussion and Analysis](discussion/)

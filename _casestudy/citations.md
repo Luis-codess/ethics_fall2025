@@ -2,4 +2,4 @@
 title: "Citations"
 layout: default
 ---
-Drop spot for citations used.
+Content for citations used.

@@ -2,4 +2,4 @@
 title: "discussion.md"
 layout: default
 ---
-Drop spot for discussion used.
+Content for discussion used.
