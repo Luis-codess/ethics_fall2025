@@ -2,7 +2,7 @@
 title: "Podcast 3"
 collection: podcasts
 permalink: /podcasts/podcast3
-excerpt: "how social media impact realationships"
+excerpt: "how social media impact relationships"
 date: 2025-10-28
 audio: ethics_fall2025/files/podcast_3.mp3
 video: ethics_fall2025/files/podcast_3.mp4
