@@ -15,7 +15,6 @@ Microtransactions and gacha systems have become a major part of modern video gam
 2. [Background](background/)  
 3. [Stakeholder 1](stakeholder1/)
 4. [Stakeholder 2](stakeholder2/)
-5. [citations](citations/)
 
 ---
 
