@@ -1,7 +1,7 @@
 ---
 title: 'SOC Blog 1: Adaptation - Generative AI’s Labor Impacts'
 date: 2025-10-07
-permalink: /posts/2025/09/soc-blog-post-1/
+permalink: /posts/2025/10/soc-blog-post-1/
 tags:
     - Data
     - Rules
