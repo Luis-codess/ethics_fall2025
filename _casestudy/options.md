@@ -2,7 +2,7 @@
 title: "Options Chosen"
 layout: single
 ---
-
+## options
 If you choose Option A
 
 Keeping the gacha system while adding drop rate transparency and warnings means the game remains mostly the same. The company continues earning strong profits, and players technically have more information before spending. However, younger and more vulnerable players may still overspend, since knowing the odds does not always stop impulsive behavior. This option improves transparency but offers limited protection from harm.

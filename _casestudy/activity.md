@@ -17,7 +17,7 @@ Option B: Add spending limits and stricter controls for minors, even if it lower
 
 Option C: Remove chance-based purchases entirely and replace them with direct item purchases.
 
-[Check options chosen](https://luis-codess.github.io/ethics_fall2025//casestudy/activity/options/)
+[Check options chosen](options/)
 
 Reflection questions:
 
