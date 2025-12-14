@@ -1,6 +1,6 @@
 ---
 title: "background"
-layout: default
+layout: single
 ---
 ## background
 
