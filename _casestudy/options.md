@@ -15,4 +15,4 @@ If you choose Option C
 
 Removing chance-based purchases and switching to direct item purchases eliminates gambling-like mechanics entirely. Players always know what they are paying for, which greatly reduces financial and emotional risk. However, this option significantly changes the game’s monetization model and may reduce revenue or alter how content updates are funded.
 
-[back to Interactive Activity](activity/)
+[back to Interactive Activity](https://luis-codess.github.io/ethics_fall2025//casestudy/activity/)
