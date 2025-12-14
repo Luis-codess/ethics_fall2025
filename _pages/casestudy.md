@@ -18,7 +18,7 @@ Microtransactions and gacha systems have become a major part of modern video gam
 5. [Interactive Activity](activity/)
 
 ---
-## Learning Ojectives
+## Learning Objectives
 ---
 - Understand what microtransactions, loot boxes, and gacha systems are and how they function in modern video games
 
